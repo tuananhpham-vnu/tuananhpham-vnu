@@ -45,25 +45,33 @@
 
 <div align="center">          
   <p>
-<a href="https://github.com/Dainn98/LibraryManagement">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=LibraryManagement&theme=shadow_red" />
+<!-- AI/Research -->
+<a href="https://github.com/Dainn98/ViSecRAG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=ViSecRAG&theme=vue" />
 </a>
 
+<a href="https://github.com/Dainn98/AI_ThucChien">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=AI_ThucChien&theme=solarized-light" />
+</a>
+
+<!-- App -->
+<a href="https://github.com/Dainn98/LibraryManagement">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=LibraryManagement&theme=swift" />
+</a>
+
+<!-- Games -->
 <a href="https://github.com/Dainn98/FloppyBird">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=FloppyBird&theme=shadow_green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=FloppyBird&theme=cobalt2" />
 </a>
 
 <a href="https://github.com/Dainn98/HangMan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=HangMan&theme=shadow_green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=HangMan&theme=maroongold" />
 </a>  
 
 <a href="https://github.com/Dainn98/Simple_XO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=Simple_XO&theme=shadow_red" />
-</a>  
-
-  <a href="https://github.com/Dainn98/GenerativeAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=GenerativeAI&theme=shadow_green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=Simple_XO&theme=vue" />
 </a>
+
   </p>
 </div>  
 
