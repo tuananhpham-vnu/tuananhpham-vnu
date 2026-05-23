@@ -33,15 +33,3 @@
   <b>Others:</b>
   <code>VastAI</code> · <code>MLflow</code> · <code>Google Colab</code> · <code>Kaggle</code> · <code>Hugging Face</code>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dainn98&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dainn98&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
