@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hi%2C+I'm+Tuan-Anh+Pham+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;AI+Engineer+%7C+Research+Assistant;NLP+%7C+CV+%7C+ML+%7C+DL+%7C+LLMs;UAV+%7C+Edge+AI+%7C+AI+Safety+%7C+Adversarial+Attack+%7C+RAG+%7C+%7C+Prompt+Optimization)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hi%2C+I'm+Tuan-Anh+Pham+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;AI+Engineer+%7C+Research+Assistant;NLP+%7C+CV+%7C+ML+%7C+DL+%7C+LLMs;UAV+%7C+Edge+AI+%7C+AI+Safety+%7C+Prompt+Optimization)
 
 ---
 
