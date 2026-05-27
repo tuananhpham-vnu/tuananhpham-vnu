@@ -16,7 +16,7 @@
 
 ## 🚀 Research Interests
 
-`NLP` · `LLMs` · `RAG` · `Information Retrieval` · `Prompt Optimization` · `LLM Evaluation` · `Computer Vision` · `UAV-based AI` · `Edge AI` · `AI Safety`
+`NLP` · `LLMs` · `RAG` · `Information Retrieval` · `Prompt Optimization` · `LLM Evaluation` · `CV` · `UAV-based AI` · `Edge AI` · `AI Safety`
 
 ---
 
